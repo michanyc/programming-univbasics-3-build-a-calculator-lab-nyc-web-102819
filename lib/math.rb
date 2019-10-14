@@ -24,5 +24,5 @@ end
 modulo("34", "5")
 
 def square_root(num)
-
+  Integer.sqrt(81)
 end
